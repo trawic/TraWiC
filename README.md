@@ -89,6 +89,3 @@ Afterwards, run the following command:
 ```bash
 python src/nicad_test.py
 ```
-
-# How to Cite
-If you use this code in your research, please cite the following paper:
