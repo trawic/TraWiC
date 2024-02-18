@@ -93,9 +93,10 @@ python src/nicad_test.py
 ## The Paper
 You can find the paper [here](https://arxiv.org/abs/2402.09299) and the citation is as follows:
 
-@article{majdinasab2024trained,
-title={Trained Without My Consent: Detecting Code Inclusion In Language Models Trained on Code},
-author={Majdinasab, Vahid and Nikanjam, Amin and Khomh, Foutse},
-journal={arXiv preprint arXiv:2402.09299},
-year={2024}
-}
+
+    @article{majdinasab2024trained,
+    author = {Majdinasab, Vahid and Nikanjam, Amin and Khomh, Foutse},
+    title = {Trained Without My Consent: Detecting Code Inclusion In Language Models Trained on Code},
+    year = {2024},
+    journal = {arXiv preprint arXiv:2402.09299},
+    }
